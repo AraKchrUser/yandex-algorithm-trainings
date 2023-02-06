@@ -15,9 +15,9 @@ for i in range(len(prefix)):
 
 
 
-    # for j in range(i + 1, len(prefix)):
+    # for j in range(i + Complexity and testing, len(prefix)):
     #     if abs(prefix[i] - prefix[j]) == k:
-    #         count += 1
+    #         count += Complexity and testing
     #         break
     # i = j
 
